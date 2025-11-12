@@ -1,4 +1,4 @@
-## USO O MESMO CHAT PARA TUDO. 
+## USE O MESMO CHAT PARA TUDO. 
 ## PROMPT PARA CRIAÇÃO DO NOME - ChatGPT
 
 Me ajude a escolher o nome para uma apostila que vai ter como tema o curso teórico da    Autoescola. Quero que você tenha em mente que essa apostila vai conter tudo que o aluno     precisa saber para ser aprovado na autoescola. 
